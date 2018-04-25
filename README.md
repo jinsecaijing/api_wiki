@@ -6,4 +6,8 @@
 项目名称：您的项目名称
 联系方式：您的 手机号/微信
 ```
-2、根据key，按照下列教程配置即可
+2、根据key，按照文档配置即可
+
+
+
+wiki地址：https://github.com/jinsecaijing/api_wiki/wiki
